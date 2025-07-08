@@ -68,17 +68,17 @@ To design a visually appealing event invitation using HTML elements and basic CS
 <body>
 
     <div class="invite-card">
-        <img src="https://via.placeholder.com/500x200?text=Annual+Alumni+Meet" alt="Event Banner">
+        <img src="event.png" alt="Annual Alumni Meet Banner">
         <h1>Annual Alumni Meet</h1>
         <h3>Reconnect & Celebrate Together</h3>
 
         <p><span class="label">Date:</span> August 25, 2025</p>
         <p><span class="label">Time:</span> 6:00 PM onwards</p>
-        <p><span class="label">Venue:</span> College Auditorium</p>
+        <p><span class="label">Venue:</span> Saveetha Engineering College Auditorium</p>
 
         <div class="rsvp">
-            <p><strong>RSVP:</strong> John Doe — 9876543210</p>
-            <p>Or email: events@college.edu</p>
+            <p><strong>RSVP:</strong> Harish Ragav S — 9876543210</p>
+            <p>Or email: harishragavs@saveetha.edu.in</p>
         </div>
     </div>
 
